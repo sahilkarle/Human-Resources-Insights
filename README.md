@@ -11,7 +11,7 @@ This Power BI report repository is a comprehensive tool for analyzing HR data, o
 - **Headcount Analysis**: Charts showing the total number of employees and how headcount changes by department, location, and job level.
 - **Employee Demographics**: Breakdown of employee diversity by gender, age, race, and education level, providing a snapshot of the organization's demographic makeup.
 - **Salary Distribution**: Analysis of salary ranges across departments and roles, aiding in pay equity analysis and budgeting.
-- **Training Insights**: Overview of training program participation and effectiveness, including the correlation between training and employee performance.
+
 
 ## How to Use
 1. **Download Power BI Desktop**: Download the latest version from [here](https://powerbi.microsoft.com/desktop/).
