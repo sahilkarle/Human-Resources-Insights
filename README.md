@@ -15,7 +15,7 @@ This Power BI report repository is a comprehensive tool for analyzing HR data, o
 
 ## How to Use
 1. **Download Power BI Desktop**: Download the latest version from [here](https://powerbi.microsoft.com/desktop/).
-2. **Access the Report**: Download the `HR.pbix` file and open it with Power BI Desktop.
+2. **Access the Report**: Download the `Human Resources Insights.pbix` file and open it with Power BI Desktop.
 3. **Customize Your View**: Utilize the interactive features to filter and analyze the data according to your specific HR metrics and questions.
 
 ## Sample Visuals
