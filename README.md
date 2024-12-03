@@ -18,16 +18,16 @@ This Power BI report repository is a comprehensive tool for analyzing HR data, o
 2. **Access the Report**: Download the `Human Resources Insights.pbix` file and open it with Power BI Desktop.
 3. **Customize Your View**: Utilize the interactive features to filter and analyze the data according to your specific HR metrics and questions.
 
-### Cover Page
+## Cover Page
 ![Screenshot 2024-12-03 120419](https://github.com/user-attachments/assets/e5fc4e05-36ce-4c0d-8f1b-ea73f0d27e1c)
 
-### Headcount
+## Headcount
 ![Screenshot 2024-12-03 120437](https://github.com/user-attachments/assets/44273e5f-9962-467f-9864-4850a5f3079a)
 
-### Retention
+## Retention
 ![Screenshot 2024-12-03 120454](https://github.com/user-attachments/assets/cb890b9f-57ba-4ff0-9d44-c290d65e8868)
 
-### Employee Turnover
+## Employee Turnover
 ![Screenshot 2024-12-03 120522](https://github.com/user-attachments/assets/a3274f57-b77f-4d69-9a65-da4d1db513d6)
 
 
