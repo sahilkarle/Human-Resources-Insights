@@ -18,30 +18,17 @@ This Power BI report repository is a comprehensive tool for analyzing HR data, o
 2. **Access the Report**: Download the `Human Resources Insights.pbix` file and open it with Power BI Desktop.
 3. **Customize Your View**: Utilize the interactive features to filter and analyze the data according to your specific HR metrics and questions.
 
-## Sample Visuals
-The report includes visuals such as:
+### Cover Page
+![Screenshot 2024-12-03 120419](https://github.com/user-attachments/assets/e5fc4e05-36ce-4c0d-8f1b-ea73f0d27e1c)
 
-### Employee Retention Trends
-A visual representation of employee retention rates over the years, highlighting changes and trends.
+### Headcount
+![Screenshot 2024-12-03 120437](https://github.com/user-attachments/assets/44273e5f-9962-467f-9864-4850a5f3079a)
 
-![15](https://github.com/user-attachments/assets/ea61b576-292b-4c5b-b166-c4b640510858)
+### Retention
+![Screenshot 2024-12-03 120454](https://github.com/user-attachments/assets/cb890b9f-57ba-4ff0-9d44-c290d65e8868)
 
-### Headcount by Department
-A chart showing the distribution of employees across different departments, providing a quick view of where the workforce is concentrated.
-
-![12](https://github.com/user-attachments/assets/82703ad9-5680-4884-925f-67eba002807a)
-
-
-### Demographic Breakdown
-Visuals that illustrate the diversity of the workforce in terms of gender, age, race, and education.
-
-![13](https://github.com/user-attachments/assets/2ee084ee-5f2f-457f-8e51-01fc69aad77c)
-
-
-### Salary Range Distribution
-A visual that compares salary ranges across different roles, supporting compensation analysis.
-
-![16](https://github.com/user-attachments/assets/07b8cb77-c1fa-4b78-adda-4f0b26d303af)
+### Employee Turnover
+![Screenshot 2024-12-03 120522](https://github.com/user-attachments/assets/a3274f57-b77f-4d69-9a65-da4d1db513d6)
 
 
 ## Contact
